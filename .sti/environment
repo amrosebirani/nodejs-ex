@@ -1,0 +1,3 @@
+NO_PROXY=proxy-developer.aexp.com
+HTTP_PROXY=http://proxy-developer.aexp.com:8585
+HTTPS_PROXY=http://proxy-developer.aexp.com:8585
